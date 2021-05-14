@@ -1,0 +1,17 @@
+<resources>
+	<string name="app_name">GitUser</string>
+	<string name="s">placeholder</string>
+	<string name="repository">repo</string>
+	<string name="followers">followers</string>
+	<string name="following">following</string>
+	<string name="search">Search Here</string>
+	<string name="search_hint">find here</string>
+	<string name="hello_blank_fragment">Hello blank fragment</string>
+	<string name="content_tab_fol">Followers</string>
+	<string name="content_tab_foling">Following</string>
+	<string name="tab_text_1">Followers</string>
+	<string name="tab_text_2">Following</string>
+	<string name="setting">Setting</string>
+	<!--    tambah error code di strings.xml dulu, replace semuanya-->
+
+</resources>
